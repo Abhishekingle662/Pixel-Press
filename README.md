@@ -1,6 +1,8 @@
 # Pixel-Press
 This is a client-side offline image compressor.
 
+> Workflow trigger test note: this line was added to create a minimal non-functional content change.
+
 ## GitHub Pages deployment
 
 This repository is configured to deploy to GitHub Pages using GitHub Actions.
