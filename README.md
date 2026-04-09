@@ -8,6 +8,7 @@ This repository is configured to deploy to GitHub Pages using GitHub Actions.
 - Workflow file: `.github/workflows/deploy-pages.yml`
 - Trigger: push to `main` (and manual `workflow_dispatch`)
 - Deployment target: GitHub Pages
+- You can also run the deployment manually from the **Actions** tab using **Run workflow**.
 
 ### One-time setup in GitHub
 
